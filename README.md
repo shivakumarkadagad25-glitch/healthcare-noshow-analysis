@@ -15,9 +15,11 @@ Size: 110,000+ records × 14 features
 Target: No-show flag (1 = missed, 0 = attended)
 
 🔧 Tools
+
 Python | Pandas | Matplotlib | Seaborn | Scikit-learn | Jupyter
 
 ⚙️ Features Engineered
+
 waiting_days, age_group, waiting_bucket, same_day flag,
 has_chronic flag, is_returning flag, appointment_weekday,
 scheduled_month, total_visits
