@@ -1,8 +1,12 @@
 Healthcare Appointment No-Show Analysis
+
 📌 Overview
 Analysis of 110,000+ medical appointment records from Brazil to identify key drivers of patient no-shows and recommend strategies to improve attendance rates.
+
 🎯 Business Problem
 Hospital no-shows waste clinical resources and delay patient care. This project identifies which patients are most likely to miss appointments — enabling smarter reminder strategies and scheduling optimization.
+
+
 📊 Dataset
 
 Source: Kaggle — Medical Appointment No Shows
@@ -15,6 +19,7 @@ Python | Pandas | Matplotlib | Seaborn | Scikit-learn | Jupyter
 waiting_days, age_group, waiting_bucket, same_day flag,
 has_chronic flag, is_returning flag, appointment_weekday,
 scheduled_month, total_visits
+
 📈 Key Findings
 
 Overall no-show rate: ~20%
